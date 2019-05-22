@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "roj-20181230132701-authRole",
+            "UnauthRoleArn": "arn:aws:iam::208610150522:role/roj-20181230132701-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::208610150522:role/roj-20181230132701-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "roj-20181230132701-deployment",
+            "UnauthRoleName": "roj-20181230132701-unauthRole",
+            "StackName": "roj-20181230132701",
+            "StackId": "arn:aws:cloudformation:eu-central-1:208610150522:stack/roj-20181230132701/7fc465c0-0c08-11e9-9863-0ac03387fd40"
+        }
+    }
+}
